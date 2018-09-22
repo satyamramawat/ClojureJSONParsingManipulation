@@ -23,4 +23,4 @@
   (println "Maybe you can write to him about" fav-hobby "or" second-hobby)
   (println "Calculated BMI:"(/ weight (* height height))))
 
-(print-contact-info satyam-ramawat)
+(print-contact-info satyam-ramawat) ;;Calling Function and passing JSON formatted Map 
