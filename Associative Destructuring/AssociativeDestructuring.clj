@@ -1,4 +1,4 @@
-(ns testingclojure.AssociativeDestructuring)
+(ns clojureexercise.AssociativeDestructuring)
 
 (def satyam-ramawat {:f-name "Satyam"
                  :l-name "Ramawat"
